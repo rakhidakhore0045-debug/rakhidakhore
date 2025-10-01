@@ -1,4 +1,4 @@
-# rakhi-readme
+# Rakhi-readme
 
 👋 Hi, I'm Rakhi Dakhore!
 
