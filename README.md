@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rakhi Dakhore!
-🔍 ##Data Analyst | Business Analyst | BI Developer | SQL Enthusiast**
+ ## Data Analyst | Business Analyst | BI Developer | SQL Enthusiast
 
 ---
 
